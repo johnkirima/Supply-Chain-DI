@@ -1,0 +1,301 @@
+sku_id,product_name,category,unit_cost,selling_price,weight_kg,holding_cost_per_unit_per_week,stockout_penalty_per_unit
+SKU_001,Chips Tortilla,Grocery,27.98,38.9,2.93,0.19,5.97
+SKU_002,Fanny Pack,Apparel,23.99,62.54,0.42,0.2,18.57
+SKU_003,Jade Roller,Beauty,5.49,12.79,0.24,0.12,2.62
+SKU_004,Wireless Mouse,Electronics,82.2,135.58,1.87,0.32,30.88
+SKU_005,Baking Soda 2lb,Grocery,25.09,43.06,2.64,0.08,7.69
+SKU_006,Cold Brew Concentrate,Grocery,22.53,34.88,0.59,0.11,7.62
+SKU_007,Chicken Broth 32oz,Grocery,12.02,20.26,0.71,0.09,4.51
+SKU_008,Curtains Blackout,Home & Kitchen,18.04,29.11,2.75,0.15,7.74
+SKU_009,Gaming Mouse,Electronics,95.94,149.64,1.85,0.34,30.97
+SKU_010,Scalp Scrub,Beauty,5.59,16.87,0.54,0.03,3.94
+SKU_011,Pancake Mix Organic,Grocery,28.31,46.54,0.53,0.12,10.28
+SKU_012,Smart Lock,Electronics,12.03,21.32,1.94,0.21,6.15
+SKU_013,Vitamin D3 Drops,Grocery,28.45,46.23,3.12,0.14,8.0
+SKU_014,E-Reader Case,Electronics,35.33,76.96,1.44,0.46,22.68
+SKU_015,Trail Mix Variety,Grocery,18.94,27.16,3.2,0.13,5.57
+SKU_016,Coconut Water 6-Pack,Grocery,7.7,11.54,3.84,0.16,1.91
+SKU_017,Tie Silk,Apparel,10.38,26.67,1.27,0.19,6.99
+SKU_018,Collagen Peptides,Grocery,12.47,20.99,2.13,0.14,4.47
+SKU_019,Deodorant Natural,Beauty,12.64,29.23,0.61,0.09,6.86
+SKU_020,Makeup Bag Travel,Beauty,23.16,55.32,0.31,0.12,14.82
+SKU_021,Measuring Cup Set,Home & Kitchen,44.6,85.3,1.61,0.21,17.16
+SKU_022,Toilet Brush Set,Home & Kitchen,27.78,52.57,1.86,0.23,10.63
+SKU_023,Athletic Socks 6-Pack,Apparel,26.54,47.34,0.15,0.19,12.02
+SKU_024,Boxer Briefs 4-Pack,Apparel,32.68,74.32,0.26,0.07,19.49
+SKU_025,Broom and Dustpan Set,Home & Kitchen,27.95,52.57,3.89,0.22,14.5
+SKU_026,Smart Thermostat,Electronics,69.46,135.69,2.32,0.19,41.63
+SKU_027,Sandals Sport,Apparel,21.09,58.67,1.23,0.14,16.67
+SKU_028,Ankle Brace,Apparel,28.03,76.55,1.17,0.17,17.78
+SKU_029,Teeth Whitening Strips,Beauty,22.89,63.9,0.35,0.09,21.86
+SKU_030,Instant Ramen 12-Pack,Grocery,4.82,7.67,1.86,0.15,1.19
+SKU_031,Surge Protector,Electronics,44.42,88.12,2.27,0.45,23.87
+SKU_032,Bobby Pins Pack,Beauty,20.47,37.01,0.3,0.08,10.39
+SKU_033,Smart Doorbell,Electronics,101.55,168.23,0.73,0.12,48.56
+SKU_034,Portable SSD 500GB,Electronics,98.43,208.36,1.18,0.14,48.8
+SKU_035,Fish Oil Capsules,Grocery,14.55,21.71,3.46,0.11,5.32
+SKU_036,Extension Cord 10ft,Home & Kitchen,22.91,49.66,0.85,0.09,7.75
+SKU_037,Smart Plug,Electronics,98.54,161.97,0.43,0.37,43.09
+SKU_038,Drawer Organizer,Home & Kitchen,35.64,73.36,1.81,0.23,12.23
+SKU_039,Power Strip Tower,Electronics,97.02,174.84,2.06,0.3,40.09
+SKU_040,Air Fryer Compact,Home & Kitchen,19.22,47.3,3.64,0.09,7.59
+SKU_041,Closet Organizer Shelf,Home & Kitchen,18.74,33.46,3.5,0.09,9.85
+SKU_042,Ice Cube Tray Silicone,Home & Kitchen,7.96,17.49,2.59,0.23,4.55
+SKU_043,Wristband Sweat,Apparel,20.37,47.3,0.78,0.15,9.31
+SKU_044,Stainless Steel Water Bottle,Home & Kitchen,5.17,10.5,2.25,0.18,2.72
+SKU_045,Oven Mitts Pair,Home & Kitchen,36.75,65.49,0.87,0.2,17.75
+SKU_046,Cutting Board Bamboo,Home & Kitchen,32.23,61.53,0.86,0.08,11.54
+SKU_047,Flour All-Purpose 5lb,Grocery,19.66,35.2,3.23,0.11,7.51
+SKU_048,Seasoning Set 6-Pack,Grocery,26.72,45.39,3.36,0.18,10.75
+SKU_049,Bathroom Organizer,Home & Kitchen,19.95,32.6,0.31,0.2,7.92
+SKU_050,Black Pepper Grinder,Grocery,23.32,32.17,4.43,0.18,4.92
+SKU_051,Organic Granola Bag,Grocery,8.61,11.31,1.07,0.15,2.17
+SKU_052,Makeup Remover Wipes,Beauty,23.58,49.71,0.1,0.12,14.23
+SKU_053,Mac and Cheese 6-Pack,Grocery,26.53,47.4,4.85,0.17,7.73
+SKU_054,Toaster 2-Slice,Home & Kitchen,16.4,38.46,0.29,0.21,7.4
+SKU_055,Arm Sleeve UV Protection,Apparel,17.19,37.04,1.07,0.11,8.66
+SKU_056,Slippers Memory Foam,Apparel,12.5,21.29,0.34,0.13,4.69
+SKU_057,Lint Roller 5-Pack,Home & Kitchen,40.85,63.13,1.27,0.24,17.9
+SKU_058,Coat Rack Standing,Home & Kitchen,7.94,17.06,3.03,0.17,5.02
+SKU_059,Oatmeal Instant Variety,Grocery,5.24,8.39,1.38,0.13,1.5
+SKU_060,Fitness Tracker,Electronics,55.84,114.72,3.03,0.1,31.73
+SKU_061,Vanilla Extract Pure,Grocery,25.3,34.52,1.81,0.17,5.73
+SKU_062,Air Quality Monitor,Electronics,66.49,134.04,0.83,0.35,28.52
+SKU_063,Portable Charger,Electronics,76.05,116.84,0.32,0.48,40.29
+SKU_064,Olive Oil Extra Virgin,Grocery,3.61,5.18,2.8,0.16,0.91
+SKU_065,BB Cream,Beauty,14.87,30.69,0.19,0.13,10.49
+SKU_066,Digital Thermometer,Electronics,109.73,174.65,0.59,0.3,60.75
+SKU_067,Action Camera,Electronics,40.45,61.85,3.26,0.42,18.25
+SKU_068,Gloves Touchscreen,Apparel,26.25,67.82,0.88,0.05,14.86
+SKU_069,Portable Projector,Electronics,107.68,179.87,1.38,0.14,51.58
+SKU_070,Honey Raw Organic,Grocery,6.76,11.61,4.93,0.14,1.94
+SKU_071,Duvet Cover Set,Home & Kitchen,43.07,90.71,1.07,0.18,22.02
+SKU_072,Setting Spray,Beauty,18.41,61.16,0.43,0.09,13.22
+SKU_073,Sea Salt Flakes,Grocery,22.13,38.03,3.55,0.16,8.06
+SKU_074,Rice Basmati 5lb,Grocery,12.6,20.91,1.63,0.15,4.13
+SKU_075,Eye Cream Anti-Aging,Beauty,22.48,63.15,0.56,0.12,17.35
+SKU_076,Hiking Socks Merino,Apparel,11.41,20.04,0.48,0.06,4.88
+SKU_077,Laundry Basket Collapsible,Home & Kitchen,16.41,40.21,3.81,0.16,9.84
+SKU_078,Shower Curtain Liner,Home & Kitchen,36.25,83.0,0.55,0.15,13.17
+SKU_079,Cast Iron Skillet 10in,Home & Kitchen,17.95,40.53,0.25,0.07,6.36
+SKU_080,Apron Kitchen,Apparel,38.92,67.39,1.04,0.12,19.15
+SKU_081,Hair Ties 100ct,Beauty,13.93,39.08,0.35,0.04,9.78
+SKU_082,Tweezers Precision,Beauty,4.54,14.7,0.15,0.08,4.7
+SKU_083,Noise Cancelling Headphones,Electronics,63.31,115.11,1.55,0.11,24.88
+SKU_084,Mascara Waterproof,Beauty,6.24,13.45,0.33,0.09,3.94
+SKU_085,Can Opener Manual,Home & Kitchen,42.09,99.27,1.83,0.2,26.13
+SKU_086,Shower Caddy,Home & Kitchen,24.59,56.16,1.71,0.17,15.69
+SKU_087,LED Night Light,Home & Kitchen,8.83,18.9,0.89,0.12,5.38
+SKU_088,Electric Kettle,Home & Kitchen,19.3,41.37,1.94,0.16,12.05
+SKU_089,Car Phone Mount,Electronics,89.65,180.83,0.35,0.24,39.31
+SKU_090,HDMI Cable 6ft,Electronics,116.59,235.52,3.29,0.46,68.23
+SKU_091,Pasta Penne 1lb,Grocery,20.92,37.0,3.72,0.11,5.67
+SKU_092,Dish Soap Refill,Home & Kitchen,9.83,23.7,3.33,0.24,6.13
+SKU_093,Knife Sharpener,Home & Kitchen,23.65,46.67,0.86,0.14,9.79
+SKU_094,Matcha Powder,Grocery,27.0,48.0,4.34,0.18,10.35
+SKU_095,Wireless Presenter,Electronics,81.92,168.25,1.99,0.31,39.75
+SKU_096,USB Flash Drive 64GB,Electronics,104.67,198.73,1.23,0.13,49.02
+SKU_097,Essential Oil Set,Beauty,6.71,15.42,0.72,0.03,3.28
+SKU_098,Shaving Cream,Beauty,22.18,54.72,0.66,0.08,14.04
+SKU_099,Windbreaker,Apparel,38.97,72.23,1.3,0.12,15.14
+SKU_100,Glass Food Containers Set,Home & Kitchen,4.71,11.09,2.87,0.14,1.83
+SKU_101,Hot Sauce Variety,Grocery,25.27,37.25,3.45,0.15,6.58
+SKU_102,Coffee Grinder Manual,Home & Kitchen,28.87,61.64,0.37,0.12,15.03
+SKU_103,Portable Monitor,Electronics,35.11,68.03,2.69,0.2,21.04
+SKU_104,Green Tea Bags 100ct,Grocery,14.78,21.39,4.75,0.17,3.51
+SKU_105,Gym Bag Duffel,Apparel,16.13,29.92,1.21,0.15,7.17
+SKU_106,Herbal Tea Sampler,Grocery,17.87,24.01,2.16,0.12,4.23
+SKU_107,Concealer Stick,Beauty,14.25,26.91,0.3,0.05,5.64
+SKU_108,Wireless Charging Pad,Electronics,21.39,42.15,2.69,0.32,13.3
+SKU_109,Protein Bars 12-Pack,Grocery,27.1,46.31,1.84,0.11,8.7
+SKU_110,Iron Steam Compact,Home & Kitchen,29.43,64.62,1.93,0.18,15.36
+SKU_111,Dry Shampoo,Beauty,10.19,35.43,0.5,0.06,7.63
+SKU_112,Tote Bag Canvas,Apparel,6.88,19.63,0.87,0.17,4.6
+SKU_113,Throw Blanket Fleece,Home & Kitchen,9.01,20.38,2.55,0.07,3.31
+SKU_114,Tank Top 3-Pack,Apparel,35.27,94.78,1.18,0.18,25.72
+SKU_115,Denim Jacket,Apparel,26.99,58.21,0.48,0.2,13.34
+SKU_116,Watering Can,Home & Kitchen,22.28,55.26,2.07,0.12,13.54
+SKU_117,Body Lotion,Beauty,5.78,18.41,0.55,0.09,4.67
+SKU_118,Cufflinks Set,Apparel,18.18,45.66,0.25,0.15,13.69
+SKU_119,Canned Tuna 6-Pack,Grocery,16.38,26.93,2.29,0.11,6.25
+SKU_120,Mixed Nuts 1lb,Grocery,4.0,6.39,1.3,0.09,1.01
+SKU_121,Phone Gimbal,Electronics,64.17,130.82,2.31,0.38,41.78
+SKU_122,Rose Water Spray,Beauty,19.84,51.0,0.44,0.08,13.27
+SKU_123,Coffee Beans Medium Roast,Grocery,26.45,40.83,4.49,0.18,7.86
+SKU_124,Skin Toner Pads,Beauty,11.64,39.05,0.32,0.1,11.51
+SKU_125,Toner Hydrating,Beauty,16.04,36.74,0.49,0.05,10.0
+SKU_126,Baseball Cap Adjustable,Apparel,6.61,14.21,0.77,0.14,3.06
+SKU_127,Digital Alarm Clock,Electronics,18.43,39.03,3.16,0.35,9.79
+SKU_128,Foundation Liquid,Beauty,10.49,27.13,0.61,0.03,6.45
+SKU_129,Tomato Sauce Jar,Grocery,10.08,16.1,0.45,0.14,3.38
+SKU_130,Dress Socks 5-Pack,Apparel,37.72,62.43,0.27,0.12,18.23
+SKU_131,Face Mask Sheet Pack,Beauty,14.81,41.05,0.26,0.12,9.36
+SKU_132,Soap Dispenser,Home & Kitchen,32.57,55.79,0.72,0.05,11.3
+SKU_133,Retinol Night Cream,Beauty,2.3,6.73,0.18,0.15,1.5
+SKU_134,Garden Gloves,Home & Kitchen,13.09,20.63,0.69,0.08,3.56
+SKU_135,Robe Plush,Apparel,15.71,42.15,0.28,0.2,9.88
+SKU_136,Chino Shorts,Apparel,35.44,101.39,0.69,0.09,25.46
+SKU_137,Nail File Set,Beauty,5.45,11.93,0.59,0.12,3.53
+SKU_138,Hair Mask Deep Conditioning,Beauty,7.31,21.51,0.06,0.04,6.88
+SKU_139,Bath Bomb Set,Beauty,18.61,60.57,0.67,0.08,18.18
+SKU_140,USB-C Hub,Electronics,10.31,22.43,2.93,0.18,5.1
+SKU_141,Plant Pot Set,Home & Kitchen,42.88,70.63,3.72,0.15,13.33
+SKU_142,Highlighter Palette,Beauty,23.38,75.1,0.77,0.04,23.25
+SKU_143,Body Scrub Coffee,Beauty,6.11,17.78,0.23,0.04,4.2
+SKU_144,Facial Cleanser Gentle,Beauty,5.89,13.39,0.18,0.04,2.92
+SKU_145,Whey Protein Powder,Grocery,26.62,41.65,4.71,0.18,10.4
+SKU_146,Watch Strap Nylon,Apparel,5.14,14.96,0.17,0.13,3.97
+SKU_147,Makeup Brush Set,Beauty,12.29,33.25,0.23,0.06,8.53
+SKU_148,Blender Personal,Home & Kitchen,7.23,10.98,0.56,0.19,1.76
+SKU_149,Streaming Stick,Electronics,12.13,22.9,1.81,0.12,5.54
+SKU_150,Storage Bins Set,Home & Kitchen,21.83,39.15,1.45,0.18,10.29
+SKU_151,Fleece Pullover,Apparel,19.32,40.27,0.62,0.2,7.44
+SKU_152,Sheet Set Queen,Home & Kitchen,42.68,100.28,1.14,0.14,16.98
+SKU_153,Energy Drink Sugar-Free 12pk,Grocery,18.66,25.11,4.41,0.11,4.09
+SKU_154,Electric Toothbrush Head Refills,Beauty,5.53,15.47,0.43,0.1,3.14
+SKU_155,Sneakers Casual,Apparel,10.01,18.37,0.15,0.16,4.77
+SKU_156,Casual Button-Down Shirt,Apparel,36.19,69.55,0.4,0.05,17.96
+SKU_157,Kombucha Variety 4-Pack,Grocery,25.03,35.35,1.27,0.14,7.4
+SKU_158,Spice Rack Organizer,Home & Kitchen,33.99,69.83,2.52,0.13,13.07
+SKU_159,Black Beans Canned 4-Pack,Grocery,24.58,40.49,1.51,0.15,7.54
+SKU_160,Bath Mat Non-Slip,Home & Kitchen,26.08,50.64,3.57,0.12,8.49
+SKU_161,Probiotic Supplement,Grocery,22.91,32.52,0.73,0.12,5.81
+SKU_162,Floss Picks 150ct,Beauty,22.06,74.66,0.47,0.11,25.26
+SKU_163,Ring Light,Electronics,51.53,83.33,2.92,0.24,20.18
+SKU_164,Cable Management Kit,Electronics,27.53,53.76,1.41,0.47,11.86
+SKU_165,VR Headset,Electronics,115.79,185.43,1.79,0.22,45.01
+SKU_166,Blush Powder,Beauty,19.49,54.82,0.4,0.08,13.83
+SKU_167,No-Show Socks 6-Pack,Apparel,15.38,35.53,0.16,0.07,10.6
+SKU_168,Bucket Hat,Apparel,29.02,81.38,1.19,0.06,19.34
+SKU_169,Charcoal Peel-Off Mask,Beauty,3.54,10.89,0.21,0.14,2.51
+SKU_170,USB-C Adapter,Electronics,70.36,151.2,2.47,0.33,32.44
+SKU_171,Hangers Velvet 30pk,Home & Kitchen,44.7,70.35,2.3,0.24,16.07
+SKU_172,Gummy Vitamins 60ct,Grocery,17.57,29.79,1.73,0.16,7.11
+SKU_173,Polo Shirt Men,Apparel,17.27,48.53,0.76,0.2,9.82
+SKU_174,Laptop Cooling Pad,Electronics,9.03,13.38,2.36,0.1,3.0
+SKU_175,Wall Hooks Adhesive,Home & Kitchen,42.78,106.35,3.06,0.13,17.28
+SKU_176,Zip-Up Hoodie,Apparel,38.23,69.25,0.71,0.19,15.95
+SKU_177,Cotton Pads 100ct,Beauty,20.79,46.54,0.18,0.11,15.8
+SKU_178,Smart Watch Band,Electronics,54.75,86.38,0.51,0.24,29.49
+SKU_179,Pocket Square Set,Apparel,5.74,17.04,0.67,0.18,4.67
+SKU_180,Eyebrow Pencil,Beauty,24.77,58.16,0.66,0.06,17.58
+SKU_181,Jam Strawberry,Grocery,8.0,12.57,4.39,0.17,2.9
+SKU_182,Wireless Earbuds,Electronics,49.95,107.92,2.59,0.34,24.11
+SKU_183,Puffer Vest Lightweight,Apparel,13.28,29.85,1.32,0.16,8.03
+SKU_184,Swim Trunks,Apparel,36.85,69.83,0.97,0.14,18.71
+SKU_185,Sponge Pack 6ct,Home & Kitchen,32.32,65.81,1.38,0.21,16.63
+SKU_186,Sunglasses Polarized,Apparel,11.21,20.56,0.25,0.15,5.44
+SKU_187,Scarf Lightweight,Apparel,7.78,15.08,1.48,0.07,3.62
+SKU_188,Hyaluronic Acid Serum,Beauty,6.39,11.9,0.4,0.1,2.5
+SKU_189,Shoe Rack 3-Tier,Home & Kitchen,22.14,46.94,1.25,0.09,10.31
+SKU_190,Smart Scale,Electronics,46.2,68.87,3.24,0.45,16.44
+SKU_191,Silicone Spatula Set,Home & Kitchen,43.99,88.7,1.43,0.21,16.91
+SKU_192,Hair Clips Set,Beauty,4.69,15.94,0.52,0.07,3.52
+SKU_193,Yeast Active Dry 3pk,Grocery,29.0,42.66,3.24,0.19,6.84
+SKU_194,Popcorn Microwave 12-Pack,Grocery,8.97,16.09,4.73,0.08,3.55
+SKU_195,Yoga Pants Women,Apparel,19.34,43.17,0.33,0.17,11.36
+SKU_196,Phone Stand,Electronics,111.25,163.63,0.77,0.12,40.71
+SKU_197,Knee Sleeve,Apparel,33.44,59.13,0.86,0.05,12.95
+SKU_198,Rain Jacket Packable,Apparel,27.41,51.51,1.05,0.06,9.46
+SKU_199,Drone Mini,Electronics,44.2,80.22,2.49,0.25,27.74
+SKU_200,Magnesium Supplement,Grocery,7.77,10.96,1.09,0.17,2.03
+SKU_201,Mechanical Keyboard,Electronics,76.53,115.68,1.09,0.25,31.05
+SKU_202,Vitamin C Serum,Beauty,2.9,9.16,0.52,0.04,3.03
+SKU_203,Solar Power Bank,Electronics,49.19,93.75,2.25,0.31,20.02
+SKU_204,Salsa Medium Jar,Grocery,21.83,31.62,4.64,0.2,7.73
+SKU_205,Beard Oil,Beauty,24.65,79.52,0.14,0.14,26.28
+SKU_206,Electrolyte Powder 30pk,Grocery,19.63,27.81,0.32,0.18,4.23
+SKU_207,Headband Athletic,Apparel,38.74,62.25,1.43,0.15,17.69
+SKU_208,Exfoliating Scrub,Beauty,9.44,23.82,0.43,0.06,5.17
+SKU_209,French Press,Home & Kitchen,21.44,33.84,0.3,0.24,9.32
+SKU_210,Nail Polish Set,Beauty,24.59,48.95,0.35,0.15,16.14
+SKU_211,Micellar Water,Beauty,2.46,5.77,0.21,0.07,1.26
+SKU_212,Bow Tie,Apparel,21.9,53.98,1.32,0.14,9.91
+SKU_213,LED Desk Lamp,Electronics,21.67,38.92,0.22,0.46,9.29
+SKU_214,Dish Drying Rack,Home & Kitchen,24.13,56.86,2.7,0.08,9.13
+SKU_215,Laptop Bag 15in,Apparel,12.9,23.52,1.32,0.08,6.99
+SKU_216,Kitchen Scale Digital,Home & Kitchen,26.07,57.73,2.71,0.11,16.93
+SKU_217,Bluetooth Transmitter,Electronics,81.65,151.43,0.42,0.25,36.31
+SKU_218,Flip Flops,Apparel,33.84,74.56,0.45,0.14,19.74
+SKU_219,Cuticle Oil,Beauty,17.96,48.9,0.24,0.07,11.11
+SKU_220,Noise Machine,Electronics,79.91,117.25,0.65,0.46,34.12
+SKU_221,Lip Balm Variety Pack,Beauty,23.18,44.13,0.26,0.13,13.78
+SKU_222,Thermal Underwear Set,Apparel,35.35,78.6,0.82,0.1,19.74
+SKU_223,Turmeric Capsules,Grocery,24.23,32.58,2.2,0.19,7.96
+SKU_224,Eyelash Curler,Beauty,15.11,46.78,0.71,0.07,15.12
+SKU_225,Digital Photo Frame,Electronics,105.6,215.73,0.73,0.46,60.6
+SKU_226,Backpack Daily,Apparel,35.35,91.9,1.22,0.1,25.53
+SKU_227,Towel Set 6-Piece,Home & Kitchen,24.85,58.45,2.3,0.16,16.45
+SKU_228,Trash Bags 50ct,Home & Kitchen,40.61,76.72,0.24,0.23,12.56
+SKU_229,Dark Chocolate Bar 4-Pack,Grocery,21.8,32.04,3.68,0.09,5.82
+SKU_230,MCT Oil,Grocery,26.59,47.65,3.89,0.13,9.16
+SKU_231,USB Microphone,Electronics,47.11,93.31,3.15,0.45,29.58
+SKU_232,Cotton T-Shirt Classic,Apparel,31.3,51.16,0.13,0.1,12.21
+SKU_233,Suspenders,Apparel,37.51,96.23,1.05,0.08,24.93
+SKU_234,Wallet Bifold,Apparel,18.29,32.66,0.89,0.15,9.02
+SKU_235,Peanut Butter Natural,Grocery,5.47,9.62,0.86,0.19,1.87
+SKU_236,Screen Protector Pack,Electronics,94.49,147.31,0.12,0.43,45.08
+SKU_237,Wireless Keyboard,Electronics,88.91,144.44,0.18,0.36,32.73
+SKU_238,Vacuum Storage Bags,Home & Kitchen,3.51,8.67,0.36,0.23,1.99
+SKU_239,Crossbody Bag,Apparel,27.17,63.5,1.12,0.06,11.89
+SKU_240,Maple Syrup Pure,Grocery,5.06,8.73,2.58,0.14,1.83
+SKU_241,Compression Leggings,Apparel,8.74,22.74,1.37,0.08,4.74
+SKU_242,Crackers Whole Wheat,Grocery,20.79,34.22,4.28,0.11,6.81
+SKU_243,Razor Cartridge Refills,Beauty,18.94,64.18,0.74,0.08,13.93
+SKU_244,Security Camera Indoor,Electronics,34.57,57.4,2.64,0.36,18.79
+SKU_245,Melatonin Gummies,Grocery,15.62,25.1,1.0,0.2,4.35
+SKU_246,Hand Cream Set,Beauty,21.36,43.52,0.65,0.05,9.77
+SKU_247,Quinoa 2lb Bag,Grocery,19.21,31.36,1.04,0.19,6.02
+SKU_248,Sparkling Water 12-Pack,Grocery,4.56,8.14,4.44,0.19,2.03
+SKU_249,Sports Bra,Apparel,19.49,36.66,0.79,0.06,9.16
+SKU_250,Webcam HD,Electronics,28.54,46.9,1.88,0.27,11.43
+SKU_251,Mattress Protector Queen,Home & Kitchen,22.69,43.45,1.24,0.06,12.15
+SKU_252,Smart Plug Mini,Electronics,90.97,178.08,2.49,0.24,43.46
+SKU_253,Leave-In Conditioner,Beauty,5.52,12.24,0.17,0.05,2.97
+SKU_254,Bluetooth Speaker,Electronics,25.47,36.84,3.04,0.34,11.28
+SKU_255,Hair Oil Argan,Beauty,4.93,11.25,0.32,0.11,3.21
+SKU_256,Mop Spray,Home & Kitchen,4.11,7.71,3.28,0.25,1.33
+SKU_257,Smart Display,Electronics,111.97,195.11,3.39,0.49,63.99
+SKU_258,Paper Towel Holder,Home & Kitchen,7.33,17.61,2.12,0.22,3.49
+SKU_259,Dried Mango Slices,Grocery,15.8,27.35,4.25,0.12,6.37
+SKU_260,WiFi Range Extender,Electronics,83.89,118.56,1.84,0.19,35.19
+SKU_261,Door Mat,Home & Kitchen,23.69,35.8,1.98,0.06,6.01
+SKU_262,Bluetooth Adapter,Electronics,76.88,168.52,0.58,0.31,55.88
+SKU_263,Running Shorts,Apparel,31.73,81.12,0.72,0.09,24.31
+SKU_264,Laptop Sleeve,Electronics,68.78,104.05,2.83,0.13,36.21
+SKU_265,Picture Frame Set,Home & Kitchen,6.56,16.31,1.62,0.12,4.44
+SKU_266,Mirror Compact LED,Beauty,7.17,18.42,0.16,0.05,5.06
+SKU_267,Hair Bandana,Apparel,24.41,64.29,1.33,0.11,14.1
+SKU_268,Heat Protectant Spray,Beauty,5.99,19.91,0.11,0.09,5.21
+SKU_269,Neck Gaiter,Apparel,5.08,10.32,1.09,0.08,2.69
+SKU_270,Crew Neck Sweatshirt,Apparel,11.95,20.5,1.05,0.15,4.36
+SKU_271,LED Strip Lights 10ft,Electronics,98.65,202.04,3.05,0.47,55.9
+SKU_272,External Hard Drive 1TB,Electronics,40.98,70.0,2.99,0.23,15.78
+SKU_273,Lash Serum,Beauty,10.59,23.94,0.53,0.08,4.88
+SKU_274,Apple Cider Vinegar,Grocery,3.3,4.52,4.52,0.18,0.95
+SKU_275,Visor Sport,Apparel,12.55,26.64,0.42,0.06,6.72
+SKU_276,Almond Butter,Grocery,10.35,13.55,4.59,0.09,2.81
+SKU_277,Collagen Face Mask,Beauty,11.54,22.45,0.8,0.09,6.49
+SKU_278,Robot Vacuum,Electronics,11.42,16.33,2.9,0.24,3.58
+SKU_279,Dash Cam,Electronics,113.33,245.15,3.21,0.25,49.6
+SKU_280,Sugar Coconut 1lb,Grocery,17.58,29.71,0.71,0.17,6.06
+SKU_281,Beanie Winter Knit,Apparel,13.68,37.16,0.53,0.12,6.74
+SKU_282,Smart Light Bulb,Electronics,35.92,62.08,2.67,0.19,13.13
+SKU_283,Mouthwash Travel Size,Beauty,18.27,37.62,0.48,0.1,9.92
+SKU_284,Pajama Set Cotton,Apparel,9.89,21.24,1.46,0.09,5.5
+SKU_285,Chia Seeds 1lb,Grocery,13.34,20.8,0.43,0.1,4.66
+SKU_286,Belt Leather,Apparel,22.64,39.01,0.59,0.05,7.39
+SKU_287,Perfume Rollerball,Beauty,22.69,55.65,0.46,0.14,16.34
+SKU_288,Sunscreen SPF 50,Beauty,4.0,10.85,0.49,0.12,2.87
+SKU_289,Silk Scrunchies Pack,Beauty,20.26,57.82,0.45,0.14,18.4
+SKU_290,Laundry Detergent Pods,Home & Kitchen,17.84,37.17,0.5,0.24,11.07
+SKU_291,Scented Candle Set,Home & Kitchen,32.44,51.02,3.32,0.19,8.28
+SKU_292,Multivitamin Daily,Grocery,11.0,15.58,0.4,0.08,3.88
+SKU_293,Moisturizer Daily SPF,Beauty,12.6,27.1,0.32,0.09,8.23
+SKU_294,Trucker Hat,Apparel,28.06,69.23,0.75,0.11,19.63
+SKU_295,Tablet Stand,Electronics,11.52,21.99,1.17,0.3,7.39
+SKU_296,Coconut Oil Organic,Grocery,10.4,16.4,3.33,0.18,2.8
+SKU_297,Reusable Produce Bags,Home & Kitchen,29.98,45.76,2.43,0.24,10.81
+SKU_298,Pillow Memory Foam,Home & Kitchen,37.14,92.84,3.99,0.16,24.63
+SKU_299,Jogger Pants,Apparel,35.21,84.86,0.71,0.16,20.23
+SKU_300,All-Purpose Cleaner,Home & Kitchen,28.76,55.17,3.74,0.22,8.65

@@ -1,0 +1,10 @@
+warehouse_id,destination_region,cost_per_unit_per_kg
+WH_East,East,0.55
+WH_East,Central,1.8
+WH_East,West,4.2
+WH_Central,East,1.95
+WH_Central,Central,0.65
+WH_Central,West,2.1
+WH_West,East,4.4
+WH_West,Central,2.35
+WH_West,West,0.7

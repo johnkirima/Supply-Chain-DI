@@ -1,0 +1,4 @@
+warehouse_id,region,capacity_units,fixed_cost_per_week,location_city
+WH_East,East,10000,9500,"Newark, NJ"
+WH_Central,Central,12000,7800,"Chicago, IL"
+WH_West,West,9000,10200,"Los Angeles, CA"
